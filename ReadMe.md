@@ -8,7 +8,7 @@ A simple simulation of a Java training school. This school will admit students a
 - Compile Administrator with <b> javac Administrator.java </b> and then type <b> java Administrator \<name of configuration file\> \<the number of days the simulation is to be run\> </b>.
 
 # Example
-<bold> java Administrator config.txt 2000 </bold> will run the simulation 2000 days with starting values based on the configuration file.
+<b> java Administrator config.txt 2000 </b> will run the simulation 2000 days with starting values based on the configuration file.
 
 If the user does not specify the number of days of the simulation, the default value is 1.
 
