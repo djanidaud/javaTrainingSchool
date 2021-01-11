@@ -1,0 +1,35 @@
+school:ECS Java Training School
+subject:Basics,1,1,5
+subject:Lab 1,2,2,2
+subject:Arrays,3,1,4
+student:Morgan,F,20
+student:Remi,F,47
+student:Alex,M,20
+student:Reese,F,28
+student:Eden,F,44
+student:Alex,F,30
+student:Joe,F,41
+student:Rory,M,41
+student:Rory,M,47
+student:Taylor,M,23
+student:Adrian,F,18
+student:Karter,M,39
+student:Charlie,F,42
+student:Alex,M,38
+student:Remi,F,35
+student:Harley,M,31
+student:Eden,F,23
+student:Adrian,F,39
+student:Karter,F,19
+student:Adrian,F,46
+student:Morgan,M,47
+student:Taylor,F,42
+student:Taylor,M,32
+student:Morgan,M,23
+student:Alex,F,33
+student:Morgan,M,45
+Teacher:Yvonne,F,55
+OOTrainer:Chris,M,62
+Teacher:Reese,F,29
+GUITrainer:Harley,M,40
+Demonstrator:Charlie,M,25
